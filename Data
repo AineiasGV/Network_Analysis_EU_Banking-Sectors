@@ -1,1 +1,8 @@
-
+- For our analysis we utilise the BIS Consolidated Banking Statistics (CBS) data.
+- Our dataset contains records quarterly data from 2006 to 2023, in million USD. 
+- As a measure, it is the Amount Outstanding.
+- Reporting Country is the nationality of the banks that led and
+- Counterparty Country is the nationality of the banks that borrowed. 
+- CBS Bank type is chosen as Domestic Banks. 
+- CBS Reporting basis is considered as Immediate Counterparty Basis. 
+- Balance sheet position is chosen as Total Claims.
